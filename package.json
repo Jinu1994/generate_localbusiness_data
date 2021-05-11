@@ -12,7 +12,7 @@
     "csv-parser": "^2.3.0",
     "csvtojson": "^2.0.10",
     "json-to-csv": "^1.0.0",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {},
   "repository": {
